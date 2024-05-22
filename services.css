@@ -6,7 +6,7 @@
 }
 body{
     width: 100%;
-    background-image: (src="new2.jpg");
+    background-image: url("new2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -16,11 +16,11 @@ body{
     text-align: center;
     padding-top: 50px;
     font-size: 70px;
-    color: #ffffff;
+    color: #ffA500;
 
 }
 #bgimg{
-    background-image:(src="new2.jpg");
+    background-image:url("new2.jpg");
 }
 /* .title h1::after{
     content: "";
