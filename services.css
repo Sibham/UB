@@ -6,7 +6,7 @@
 }
 body{
     width: 100%;
-    background-image: url("./assest/ser.jpg");
+    background-image: url("ser.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -20,7 +20,7 @@ body{
 
 }
 #bgimg{
-    background-image: url("./assest/ser.jpeg");
+    background-image: url("ser.jpeg");
 }
 /* .title h1::after{
     content: "";
